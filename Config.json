@@ -1,0 +1,19 @@
+{
+  "guild_name": "NEXORA",
+  "channels": {
+    "welcome": "👋・karşılama",
+    "roles": "🧩・rol-al",
+    "economy": "💸・ekonomi"
+  },
+  "economy": {
+    "start_money": 100,
+    "daily_reward": 50
+  },
+  "level": {
+    "xp_per_message": 10,
+    "level_roles": {
+      "5": "Aktif Üye",
+      "10": "Elit Üye"
+    }
+  }
+}
